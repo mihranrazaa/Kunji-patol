@@ -53,6 +53,15 @@ Zine PDF is available in Production
 
 ---
 
+## Motivation
+
+### Why
+I saw a similar design somewhere and i really liked it + i wanted a keyboard, so I built one for myself! 
+
+## How
+
+I is very easy just solder all the components and upload the KMK firmware on the mcu and it should work if everything is done correctly!.
+
 ---
 
 ## BOM
