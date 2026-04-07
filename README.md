@@ -63,7 +63,7 @@ Zine PDF is available in Production
 | Case & PCB                | 1        | I will make them through any local business                                             | 15-20USD |                                                                                                                                            |
 | TOTAL                     |          |                                                                                         | 100USD   |                                                                                                                                            |
 
-*I have some parts already + screws are not included as i already have them.
+*I have some parts already + M3 screws and heatset inserts are not included as i already have them, one pack of each is more then enough.
 
 ---
 
