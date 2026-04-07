@@ -20,6 +20,12 @@ The files for the PCB and Schematics are available in the Kicad folder and gerbe
 
 ![Screenshot](Assets/pcb2.jpg)
 
+![Screenshot](Assets/pcbn.jpg)
+
+![Screenshot](Assets/pcbn2.jpg)
+
+![Screenshot](Assets/pcbrr.jpg)
+
 ![Screenshot](Assets/pcbs.jpg)
 
 ![Screenshot](Assets/pcbr.jpg)
@@ -27,10 +33,20 @@ The files for the PCB and Schematics are available in the Kicad folder and gerbe
 ## Images
 
 The files for case and plate cover are available in CAD folder and in production folder, you can also but acrylic sheet for the transparent plate.
-
+Sorry i can't take photos of everything combined due to my potato laptop (it starts baking..)
 ![Screenshot](Assets/cad1.jpg)
 
 ![Screenshot](Assets/cad2.jpg)
+
+![Screenshot](Assets/cadf.jpg)
+
+![Screenshot](Assets/cadb.jpg)
+
+## Zine
+
+Zine PDF is available in Production
+
+![Screenshot](Assets/kunjipatol-zine.png)
 
 
 ---
