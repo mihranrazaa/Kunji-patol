@@ -60,7 +60,7 @@ I saw a similar design somewhere and i really liked it + i wanted a keyboard, so
 
 ## How
 
-I is very easy just solder all the components and upload the KMK firmware on the mcu and it should work if everything is done correctly!.
+I is very easy just solder all the components and upload the KMK firmware on the mcu and it should work if everything is done correctly!. You can read the KMK [documentation](https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/README.md) for detailed info on flashing, it is very easy to follow. 
 
 ---
 
