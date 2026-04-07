@@ -34,6 +34,8 @@ The files for the PCB and Schematics are available in the Kicad folder and gerbe
 
 The files for case and plate cover are available in CAD folder and in production folder, you can also but acrylic sheet for the transparent plate.
 Sorry i can't take photos of everything combined due to my potato laptop (it starts baking..)
+Onshape Link - [Here](https://cad.onshape.com/documents/a8c5ad1b41baae53f41fa56c/w/8619affa68464bad5057e5ce/e/6ca96762f7cb8c02978ccc82?renderMode=0&uiState=69d4d0c5a128ddddff498cd0)
+
 ![Screenshot](Assets/cad1.jpg)
 
 ![Screenshot](Assets/cad2.jpg)
