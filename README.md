@@ -44,6 +44,14 @@ Onshape Link - [Here](https://cad.onshape.com/documents/a8c5ad1b41baae53f41fa56c
 
 ![Screenshot](Assets/cadb.jpg)
 
+NEW VERSION CAD
+
+![Screenshot](Assets/cadn.jpg)
+
+![Screenshot](Assets/cadn2.jpg)
+
+![Screenshot](Assets/cadn3.jpg)
+
 ## Zine
 
 Zine PDF is available in Production
@@ -78,8 +86,6 @@ I is very easy just solder all the components and upload the KMK firmware on the
 
 ---
 
-## End
-
-~ [mihranrazaa](https://mihranrazaa.info/)
+made with <3 by [mihranrazaa](https://mihranrazaa.info/)
 
 BYEEE
