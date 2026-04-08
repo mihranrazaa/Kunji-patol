@@ -46,8 +46,6 @@ Onshape Link - [Here](https://cad.onshape.com/documents/a8c5ad1b41baae53f41fa56c
 
 NEW VERSION CAD
 
-![Screenshot](Assets/cadn.jpg)
-
 ![Screenshot](Assets/cadn2.jpg)
 
 ![Screenshot](Assets/cadn3.jpg)
