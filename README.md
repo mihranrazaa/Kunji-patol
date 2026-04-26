@@ -83,10 +83,11 @@ I is very easy just solder all the components and upload the KMK firmware on the
 | Cherry MX Switches(Brown) | 1       | Couldn't find a proper retailer on Amazon.They are selling for the right amount i think, | 32USD    | [Available](https://www.keychron.com/products/cherry-switch-set?variant=39298816835673)                                                    |
 | White Keycaps set         | 1        | Good Asthetics are important I will keep the body grey :)                               | 25USD    | [Available](https://www.keychron.com/products/cherry-profile-double-shot-pbt-full-set-keycaps-dolch-red-gray-white-mint-blue-black-yellow) |
 | Stabilizer set            | 1        | It has 2 extra Stabilizers just in case..                                               | 20USD    | [Available](https://amzn.in/d/dM157FJ) [Available](https://amzn.in/d/5Nto8PQ)                                                              |
-| Case & PCB                | 1        | I will make them through any local business                                             | 15-20USD | https://www.lioncircuits.com/                                                                                                                                         |
-| TOTAL                     |          |                                                                                         | 100USD   |                                                                                                                                            |
+| Case & PCB                | 1        | I will make them through any local business                                             | 55-60USD | https://www.lioncircuits.com/                                                                                                                                         |
+| TOTAL                     |          |                                                                                         | 70USD (needed)  |                                                                                                                                            |
 
 *I have some parts already + M3 screws and heatset inserts are not included as i already have them, one pack of each is more then enough.
+I just need Pcb and Stabilizers :)
 
 ---
 
