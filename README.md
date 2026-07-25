@@ -8,7 +8,9 @@ a 75%% keyboard design, it is based on RP2040 plus with a type C port which came
 
 ### Working Video
 
-![Screenshot](Assets/working.mp4)
+<video src="Assets/working.mp4" controls width="100%"></video>
+
+---
 
 ## Bit in depth info
 The keyboard is designed to be sleek and plane it has RP2040 plus as the MCU and Cherry MX Brown Switches for the keys which are used for versatile purposes (that's what i saw at least). The main firmware is KMK based and the Firmware has already been released, you can find that in the Firmware and Production folder, I hate using different cables so having type c inbuilt in the RP2040 plus is a win-win. I tried to built a unique design but routing diodes was hell, at the end the pcb looks very good in black color, hope you like my project :).
