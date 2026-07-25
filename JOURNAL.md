@@ -233,3 +233,11 @@ Here are the images!!
 <img width="4623" height="3472" alt="IMG_20260527_174942" src="https://github.com/user-attachments/assets/178eed3f-4fed-46c7-ade2-edb2a29b0ccd" />
 
 **Total time spent: 4hours**
+
+# July 25 : CRINEE
+
+Wased so much time just to add video in readme, i first tried to do it normally but the file was big so i had to upload it through LFS but that too didn't worked how i wanted it to be, AI suggested upload it in issue it will create a link add that link in readme that shit too didn't worked file was faliing to upload again and again.. i even compressed it but that too didn't worked ... but not i have just gave a link to googgle drive and added video in the repo assets.. now i will resubmit
+<img width="1126" height="246" alt="image" src="https://github.com/user-attachments/assets/188970db-e4f4-4ef2-b2e8-c733afb43edd" />
+
+
+**Total time spent: 40minutes**
