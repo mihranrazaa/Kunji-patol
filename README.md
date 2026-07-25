@@ -8,7 +8,10 @@ a 75%% keyboard design, it is based on RP2040 plus with a type C port which came
 
 ### Working Video
 
-<video src="Assets/working.mp4" controls width="100%"></video>
+<video src="https://cdn.jsdelivr.net/gh/mihranrazaa/Kunji-patol@main/Assets/working.mp4" controls width="100%"></video>
+
+I can't add the video on readme as it the file is big.. i have added it in the assets folder.. 
+But here is the GDrive link [Link](https://drive.google.com/file/d/1fuCprYtJpbeOFGNmlc98sxJG4bjCoqw0/view?usp=sharing)
 
 ---
 
